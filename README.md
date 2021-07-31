@@ -1,4 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/73091702?s=400&u=be5c6dfe86d1b2aaf61210779c043c6b3fd38bb2&v=4">
 
 <h2> Hey there! I'm Solayman.</h2>
 
