@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies. An enthusiastic learner , currently focused on Web Development using HTML, CSS, Bootstrap, JavaScript , React, Node, Express Js, Mogodb.
+- 🤔 &nbsp; Exploring new technologies. An enthusiastic learner , has experience on Web Development using JavaScript , React, NextJs, Express Js.
 - 🎓 &nbsp; Studying Materials Science and Engineering at Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh.
-- 💼 &nbsp; Working as a React Developmer Intern at Omnihouse
-- 🌱 &nbsp; Learning more about TypeScript, Next Js, React Native, Python.
+- 💼 &nbsp; Worked as a React Developmer Intern at Omnihouse, Frontend Developer at Intelsense AI Limited 
+- 🌱 &nbsp; Learning more about python, machine learning.
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
